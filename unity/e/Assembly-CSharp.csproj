@@ -61,6 +61,10 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\Dynamic.cs" />
+    <Compile Include="Assets\Scripts\Responner.cs" />
+    <Compile Include="Assets\Scripts\Opossum.cs" />
+    <Compile Include="Assets\Scripts\item.cs" />
+    <Compile Include="Assets\Scripts\frog.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
